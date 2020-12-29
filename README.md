@@ -1,3 +1,2 @@
-# CourseraIBM_testrepo
-Test Repository for coursera IBM data science course
-Its a markdown file for this repo.
+# Repository for coursera IBM Data Science Professional Certificate
+
