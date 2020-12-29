@@ -1,2 +1,2 @@
-# Repository for coursera IBM Data Science Professional Certificate
+# Repository for Coursera IBM Data Science Professional Certificate
 
